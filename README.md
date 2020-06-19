@@ -2,6 +2,8 @@
 
 > 人物关系图
 
+![image](https://github.com/img/image.png)
+
 ## Build Setup
 
 ``` bash
