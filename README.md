@@ -2,7 +2,7 @@
 
 > 人物关系图
 
-![image text](https://github.com/dashuiniu/relationchart/raw/master/img/image.png)
+![image text](./img/image.png)
 
 ## Build Setup
 
